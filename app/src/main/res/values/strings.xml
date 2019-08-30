@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Listings</string>
+    <string name="Search">Search</string>
+    <string name="editText">Your query here</string>
+    <string name="noDataFound">Your query did not return any book.\n
+                               Please enter another query.</string>
+</resources>
